@@ -6,6 +6,9 @@ O projeto foi desenvolvido com HTML5, CSS3 e JavaScript, com foco em interativid
 <h2>📸 Demonstração<h2/>
 <img src="https://github.com/Cauaamim13/Mario-Brothers/blob/main/Imagens/Captura%20de%20tela%202025-08-01%20181459.png?raw=true">
 <br>
+  <img src="https://github.com/Cauaamim13/Mario-Brothers/blob/main/Imagens/Captura%20de%20tela%202025-08-01%20181511.png?raw=true">
+  <br>
+  <img src="
 <hr>
 <h2>🚀 Funcionalidades </h2>
 
