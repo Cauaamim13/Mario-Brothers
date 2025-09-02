@@ -12,7 +12,7 @@ CSS3 → estilização, responsividade e efeitos visuais
 JavaScript (Vanilla) → interação do formulário com função de movimento
 <br>
 <hr>
-<h2>📸 Demonstração<h2/>
+<h2>📸 Demonstração</h2>
 <img src="https://github.com/Cauaamim13/Mario-Brothers/blob/main/Imagens/Captura%20de%20tela%202025-08-01%20181459.png?raw=true" width="600px">
 <br>
   <img src="https://github.com/Cauaamim13/Mario-Brothers/blob/main/Imagens/Captura%20de%20tela%202025-08-01%20181511.png?raw=true" width="600px">
@@ -29,7 +29,7 @@ JavaScript (Vanilla) → interação do formulário com função de movimento
 ✔️ Animações e efeitos para deixar a navegação mais divertida </p>
 <br>
 <hr>
-<h2>💡 Inspiração<h2/>
+<h2>💡 Inspiração</h2>
 
 <p>
 Esse projeto foi inspirado no universo do Super Mario Bros, trazendo uma abordagem criativa para apresentar uma empresa fictícia de encanamento dos irmãos mais famosos do mundo dos games. </p>
