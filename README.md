@@ -1,7 +1,15 @@
 <h1>Mario-Brothers 🍄</h1>
 <br>
-<h2>Um site fictício de uma empresa de encanamento inspirado nos irmãos Mario & Luigi.
-O projeto foi desenvolvido com HTML5, CSS3 e JavaScript, com foco em interatividade e responsividade.</h2>
+<h3>Um site fictício de uma empresa de encanamento inspirado nos irmãos Mario & Luigi.
+O projeto foi desenvolvido com HTML5, CSS3 e JavaScript, com foco em interatividade e responsividade.</h3>
+<br>
+<h2>🖥️ Tecnologias utilizadas </h2>
+
+HTML5 → estrutura da página
+
+CSS3 → estilização, responsividade e efeitos visuais
+
+JavaScript (Vanilla) → interação do formulário com função de movimento
 <br>
 <hr>
 <h2>📸 Demonstração<h2/>
