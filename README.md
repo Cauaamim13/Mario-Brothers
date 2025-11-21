@@ -3,6 +3,8 @@
 <h3>Um site fictício de uma empresa de encanamento inspirado nos irmãos Mario & Luigi.
 O projeto foi desenvolvido com HTML5, CSS3 e JavaScript, com foco em interatividade e responsividade.</h3>
 <br>
+Deploy do projeto: https://cauaamim13.github.io/Mario-Brothers/
+<br>
 <h2>🖥️ Tecnologias utilizadas </h2>
 
 HTML5 → estrutura da página
